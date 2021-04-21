@@ -1,3 +1,3 @@
-class role:maste_server{
+class role::maste_server{
   include profile::base
 }
