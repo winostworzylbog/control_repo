@@ -1,7 +1,7 @@
 mod 'puppet/nginx', '1.0.0'
 mod 'puppetlabs/stdlib', '6.0.0'
 mod 'puppetlabs/concat', '6.0.0'
-mod 'puppetlabs/translate', '1.2.0'
+mod 'puppetlabs/translate', '1.1.0'
 mod 'samuelson/dockeragent', '1.0.0'
 mod 'puppetlabs/docker', '3.1.0'
 mod 'puppetlabs/apt', '8.0.0'
